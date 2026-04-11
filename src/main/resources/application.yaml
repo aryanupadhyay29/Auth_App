@@ -1,0 +1,6 @@
+spring:
+  application:
+    name: Auth_App_Backend
+
+server:
+  port: 8082
