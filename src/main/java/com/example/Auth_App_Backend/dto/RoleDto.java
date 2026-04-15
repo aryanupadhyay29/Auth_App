@@ -1,6 +1,6 @@
 package com.example.Auth_App_Backend.dto;
 
-import jakarta.persistence.Column;
+
 import lombok.*;
 
 import java.util.UUID;

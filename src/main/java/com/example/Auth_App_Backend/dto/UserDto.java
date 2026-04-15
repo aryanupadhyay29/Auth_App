@@ -1,8 +1,7 @@
 package com.example.Auth_App_Backend.dto;
 
 import com.example.Auth_App_Backend.entity.Provider;
-import com.example.Auth_App_Backend.entity.Role;
-import jakarta.persistence.*;
+
 import lombok.*;
 
 import java.time.Instant;

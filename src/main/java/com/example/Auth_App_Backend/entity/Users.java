@@ -2,7 +2,6 @@ package com.example.Auth_App_Backend.entity;
 
 import jakarta.persistence.*;
 import lombok.*;
-import org.apache.logging.log4j.CloseableThreadContext;
 
 import java.time.Instant;
 import java.util.HashSet;
